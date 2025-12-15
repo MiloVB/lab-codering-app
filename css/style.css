@@ -327,3 +327,42 @@ nav img {
     text-decoration: none;
     font-weight: 700;
 }
+
+
+#div_div{
+    text-align: center;
+}
+
+
+#main_main_product_inspect_img_bundel{
+    padding-top: 2em;
+    display: flex;
+    justify-content: center;
+}
+
+
+#revieuw_bundel {
+    padding: 1em;
+}
+
+
+
+#p_bundel{
+    padding: 1em;
+}
+
+
+
+#a_bundel{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Libre Baskerville;
+    display: inline-block;
+    background-color: var(--blue);
+    color: var(--white);
+    padding: 0.75rem 1.25rem;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: 700;
+}
