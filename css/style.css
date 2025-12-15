@@ -269,3 +269,61 @@ nav img {
 #products_page_bundels_padding{
     padding-bottom: 2em;
 }
+
+
+
+#main_main_product_inspect{
+    padding: 1em;
+
+}
+
+#main_main_product_inspect_img{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+#main_main_product_inspect h2{
+    padding: 2em 0 0 0;
+}
+
+
+
+#main_main_product_inspect h3{
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+
+
+#main_main_product_inspect p{
+    padding-bottom: 2em;
+}
+
+
+#div{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 6em;
+}
+
+
+
+
+
+#main_main_product_inspect a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Libre Baskerville;
+    display: inline-block;
+    background-color: var(--blue);
+    color: var(--white);
+    padding: 0.75rem 1.25rem;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: 700;
+}
