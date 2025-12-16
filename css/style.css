@@ -70,7 +70,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: Libre Baskerville;
     display: inline-block;
     background-color: var(--blue);
     color: var(--white);
@@ -103,7 +102,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: Libre Baskerville;
     display: inline-block;
     background-color: var(--blue);
     color: var(--white);
@@ -161,7 +159,6 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: Libre Baskerville;
     display: inline-block;
     background-color: var(--blue);
     color: var(--white);
@@ -318,7 +315,6 @@ nav img {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: Libre Baskerville;
     display: inline-block;
     background-color: var(--blue);
     color: var(--white);
@@ -357,7 +353,110 @@ nav img {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: Libre Baskerville;
+    display: inline-block;
+    background-color: var(--blue);
+    color: var(--white);
+    padding: 0.75rem 1.25rem;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+
+
+
+#main_saved_products{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-bottom: 7em;
+}
+
+
+#main_saved_products_img{ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#main_saved_products_img a{ 
+    max-width: 50vw;
+    padding: 1em;
+}
+
+#main_saved_products_img img{
+    width: 100%;
+}
+
+
+
+#main_saved_products h2{
+    text-align: center;
+    padding: 2em;
+
+}
+
+#main_saved_products_img_bundel1{
+    width: 80%;
+    padding-right: 1.1em;
+}
+
+
+
+#header_accound{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 6em;
+}
+
+#header_accound h2{
+    padding: 1em 0;
+}
+
+#header_accound a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: inline-block;
+    background-color: var(--blue);
+    color: var(--white);
+    padding: 0.75rem 1.25rem;
+    border-radius: 30px;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+
+#header_accound img{
+    max-width: 40%;
+}
+
+
+#main_accound{
+    text-align: left;
+    padding: 1em;
+}
+
+
+#main_accound h3{
+    padding: 1em 1em;
+}
+
+
+
+#main_accound_butten{
+    display: flex;
+    justify-content: center;
+}
+
+
+#main_accound_butten a{ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
     display: inline-block;
     background-color: var(--blue);
     color: var(--white);
