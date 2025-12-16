@@ -192,6 +192,13 @@ nav {
     z-index: 1000;
 }
 
+
+#shopping_icon{
+    width: 20%;
+}
+
+
+
 nav img {
     height: auto;
 }
